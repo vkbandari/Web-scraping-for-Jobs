@@ -57,6 +57,12 @@ def scrape_indeed(list = links_list):
     # initially writing header of csv file
     writer.writerow(row_heading)
 
+    # count variable to count the jobs
+    count = 0
+
+    #limit value - static value
+    limit  = 100
+
     # looping over array of links with index value
     for i in list:
         sp = url_soup(i)
@@ -112,6 +118,13 @@ def scrape_indeed(list = links_list):
 
                 # writing all details to csv
                 writer.writerow(lis)
+
+                # on each record writing count is increasing
+                count += 1
+                if count == limit:
+                    break
+            if count == limit:
+                break
 
     # closing csv file
     file.close()

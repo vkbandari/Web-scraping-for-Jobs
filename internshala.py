@@ -59,6 +59,12 @@ def get_links_internshala(links = links_list):
     # initially writing header of csv file
     writer.writerow(row_heading)
 
+    # count variable to count the jobs
+    count = 0
+
+    #limit value - static value
+    limit  = 100
+
     # looping over array of links with index value
     for index, url in enumerate(links):
         # passing main page to scape
@@ -89,8 +95,14 @@ def get_links_internshala(links = links_list):
 
                 # writing all details to csv
                 writer.writerow([source, location, job_link])
-                #break
-        #break
+                
+                #on each record writing count is increasing
+                count += 1
+                if count == limit:
+                    break
+        if count == limit:
+            break
+
 
     # closing csv file
     file.close()

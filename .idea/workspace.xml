@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d541a93-1833-4d7d-9f2b-d409c6a7eace" name="Default Changelist" comment="">
+    <list default="true" id="6d541a93-1833-4d7d-9f2b-d409c6a7eace" name="Default Changelist" comment="description added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/facebook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indeed.py" beforeDir="false" afterPath="$PROJECT_DIR$/indeed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internshala.py" beforeDir="false" afterPath="$PROJECT_DIR$/internshala.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +67,9 @@
       <module name="Web-scraping-for-Jobs-" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -122,6 +127,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -133,14 +139,14 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1593231993796" />
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1593235771022">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1593236612452">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1593235771022" />
-    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593235708789">
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1593236612452" />
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593236600035">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1593235708789" />
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1593236600035" />
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1593230155486">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

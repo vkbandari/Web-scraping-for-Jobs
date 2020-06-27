@@ -47,6 +47,12 @@ def scrape_facebook():
     row_heading = ['post_id', 'text', 'post_text', 'shared_text', 'time', \
                    'likes', 'comments', 'shares', 'link', 'jobs_info']
 
+    # count variable to count the jobs
+    count = 0
+
+    #limit value - static value
+    limit  = 100
+
     # opening file in write mode and connecting csv writer to file
     with open(file_name, 'w') as file:
         writer = csv.writer(file)
@@ -64,6 +70,11 @@ def scrape_facebook():
             writer.writerow([post['post_id'], post['text'], post['post_text'],\
                              post['shared_text'], post['time'], post['likes'], post['comments'],\
                              post['shares'], post['link'], jobs_info])
+            # on each record writing count is increasing
+            count += 1
+            if count == limit:
+                break
+
 
 
     df = pd.read_csv(file_name)
