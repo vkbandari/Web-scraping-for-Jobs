@@ -20,28 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d541a93-1833-4d7d-9f2b-d409c6a7eace" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Web-scraping-for-Jobs-.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_pieces_of_internshala/internshala_first.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_pieces_of_internshala/internshala_second.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facebook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facebook_scraper_lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/indeed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/internshala.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/.ipynb_checkpoints/attempt_of_all-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/attempt_of_all.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/facebook_27_06_2020_10_41_20.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/facebook_database_27_06_2020_10_41_27.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/indeed_27_06_2020_10_41_11.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/indeed_database_27_06_2020_10_41_19.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/internshala_first_data_27_06_2020_10_40_53.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/internshala_first_database_27_06_2020_10_41_11.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/internshala_second_data_27_06_2020_10_40_53.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/internshala_second_database_27_06_2020_10_41_11.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,10 +123,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1593231993796" />
-    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593227490475">
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593235708789">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1593227490475" />
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1593235708789" />
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1593230155486">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
