@@ -1,4 +1,4 @@
--- create mindaddab1 database
+-- create mindaddadb1 database
 
 use mindaddadb1;
 
