@@ -19,7 +19,7 @@ CREATE TABLE IF NOT EXISTS `raw_internshala_scrape` (
   `description_headings` varchar(256) DEFAULT NULL,
   `description` varchar(8040) DEFAULT NULL,
   PRIMARY KEY (`job_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=136757 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
 
 select * from raw_internshala_scrape;
 
@@ -35,7 +35,7 @@ CREATE TABLE IF NOT EXISTS `raw_indeed_scrape` (
   `short_summary` varchar(1020) DEFAULT NULL,
   `link` varchar(256) DEFAULT NULL,
   PRIMARY KEY (`job_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=136757 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
 
 
 select * from raw_indeed_scrape;
