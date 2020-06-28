@@ -7,7 +7,7 @@ import csv
 db = pymysql.connect(host='localhost', user='root', password='password', db='mindaddadb1')
 cursor = db.cursor()
 
-'''
+
 #======================================================================================================================
 #internshala data insertion
 
@@ -64,14 +64,15 @@ with open('facebook_database_27_06_2020_10_41_27.csv') as file:
         db.commit()
         #print(row['post_id'], row['text'], row['post_text'], row['shared_text'], row['time'], row['likes'], row['comments'], row['shares'], row['link'], row['jobs_info'] )
 
+#======================================================================================================================
 
-
-cursor.execute("select * from raw_indeed_scrape")
+cursor.execute("select * from raw_fb_scrape")
 myresult = cursor.fetchall()
 for i in myresult:
     print(i)
 
-'''
+
+#======================================================================================================================
 
 
 

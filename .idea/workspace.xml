@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d541a93-1833-4d7d-9f2b-d409c6a7eace" name="Default Changelist" comment="description added">
-      <change afterPath="$PROJECT_DIR$/practice/dbfile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indeed.py" beforeDir="false" afterPath="$PROJECT_DIR$/indeed.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/indeed_database_27_06_2020_10_41_19.csv" beforeDir="false" afterPath="$PROJECT_DIR$/practice/indeed_database_27_06_2020_10_41_19.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/dbfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/dbfile.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,22 +189,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1593303835081" />
-    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1593352358830">
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1593352947666">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1593352358830" />
-    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1593352358830">
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1593352947666" />
+    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1593352947665">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1593352358830" />
-    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1593352358829">
+    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1593352947665" />
+    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1593352947665">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1593352358829" />
-    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1593352358830">
+    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1593352947665" />
+    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1593352947665">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1593352358830" />
+    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1593352947665" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593236600035">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
