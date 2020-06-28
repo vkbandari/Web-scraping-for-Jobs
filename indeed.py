@@ -48,7 +48,7 @@ def scrape_indeed(list = links_list):
     '''
 
     # writing row heading to understand each column
-    row_heading = ['Source', 'job_title', 'company_name', 'salary', 'location', 'short_summary', 'link']
+    row_heading = ['source', 'job_title', 'company_name', 'salary', 'location', 'short_summary', 'link']
 
     # opening file in write mode and connecting csv writer to file
     file = open(file_name, 'w')

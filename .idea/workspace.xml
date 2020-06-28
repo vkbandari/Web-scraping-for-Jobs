@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d541a93-1833-4d7d-9f2b-d409c6a7eace" name="Default Changelist" comment="description added">
+      <change afterPath="$PROJECT_DIR$/practice/dbfile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/facebook.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/indeed.py" beforeDir="false" afterPath="$PROJECT_DIR$/indeed.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internshala.py" beforeDir="false" afterPath="$PROJECT_DIR$/internshala.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/indeed_database_27_06_2020_10_41_19.csv" beforeDir="false" afterPath="$PROJECT_DIR$/practice/indeed_database_27_06_2020_10_41_19.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,28 @@
       <recent name="S:\mindadda\jobs scrape\data collection\Web-scraping-for-Jobs-" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.dbfile">
+    <configuration name="dbfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web-scraping-for-Jobs-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/dbfile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="jobs_scrape" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Web-scraping-for-Jobs-" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,8 +105,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web-scraping-for-Jobs-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dbfile" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.jobs_scrape" />
       </list>
     </recent_temporary>
@@ -135,14 +179,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="description added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593231993796">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593319836227">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1593231993796" />
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1593319836227" />
     <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1593236612452">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1593236612452" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1593303835081">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1593303835081" />
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1593352358830">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1593352358830" />
+    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1593352358830">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1593352358830" />
+    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1593352358829">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1593352358829" />
+    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1593352358830">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1593352358830" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593236600035">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
